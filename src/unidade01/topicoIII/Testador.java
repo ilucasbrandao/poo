@@ -1,9 +1,8 @@
 package unidade01.topicoIII;
 
 public class Testador {
-    public static void main(String[] args){
+    static void main(String[] args){
         Pessoa p;
-        int contador;
 
         p = new Pessoa();
         p.nome = "Lucas";
